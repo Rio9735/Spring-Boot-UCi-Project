@@ -1,5 +1,3 @@
-Exercise 1Here is an example of how your README would look like applying the tips I gave you, but in English:
-
 # ECASA Warehouse Management API
 
 This API allows you to manage the warehouse of ECASA, a company that distributes consumer products. The warehouse is divided into sections, each of which can only store one type of product. The API provides endpoints to create, update, delete and query the sections and products of the warehouse.
